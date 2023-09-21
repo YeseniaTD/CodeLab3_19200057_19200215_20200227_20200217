@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false" >ArtSpace</string>
+    <string name="monalisa">Monalisa</string>
+    <string name="monalisa_year">1503</string>
+    <string name="lanocheestrellada">La Noche Estrellada</string>
+    <string name="lanocheestrellada_year">1889</string>
+    <string name="elgrito">El Grito</string>
+    <string name="elgrito_year">1893</string>
+    <string name="elbeso">El Beso</string>
+    <string name="elbeso_year">1909</string>
+</resources>
